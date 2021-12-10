@@ -1,4 +1,4 @@
-print("Hello: here are some exercises with math.py")
+print("Degli esercizi con math.py e lib1")
 a=3
 b=5
 import math
