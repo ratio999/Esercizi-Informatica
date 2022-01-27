@@ -13,6 +13,14 @@
         "version": 197,
         "index": 71
       }
+    ],
+    "src/vettorizzazione.py": [
+      {
+        "id": "a95d319e-0789-4b50-a7b6-8741bb70dfe8",
+        "line": 9,
+        "version": 182,
+        "index": 176
+      }
     ]
   }
 }
