@@ -14,6 +14,6 @@ with open('src/matrix.dat', 'r') as f:
      l.append(list(map(int, line.split(', '))))
      print(l)
 import numpy as np
-input=np.loadtxt("src/matrix.dat", dtype='i', delimiter=', ')
+z=np.loadtxt("src/matrix.dat", dtype='i', delimiter=', ')
 print("con NumPy otteniamo:")
-print(input)
+print(z)

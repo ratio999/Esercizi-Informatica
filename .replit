@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 src/indovinello.py"
+run = "python3 src/broadcasting_3.py"
